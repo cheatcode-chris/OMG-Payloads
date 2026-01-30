@@ -3,7 +3,7 @@ REM Author:	Kalani (minor mod by UberGuidoZ)
 REM Kalani wrote the original code, just modded to a Rick Roll!
 REM
 REM Description: Opens Safari, enters YouTube link, goes full screen.
-REM Target:	Apple iOS (iPhone, iPad)
+REM Target:	Apple iOS (Mac, iPad)
 REM Version:	1.0
 REM Category:	Prank
 REM Source: https://github.com/UberGuidoZ/OMG-Payloads
